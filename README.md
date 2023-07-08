@@ -6,6 +6,10 @@ In this repository, I, and my group member, implemented the advance and core con
 
 The dataset was created from the RAVDESS dataset ([https://zenodo.org/record/1188976](https://zenodo.org/record/1188976)) extracting basic statistics (mean, std, min, max, etc.) from the original audio data and after transforming it using: zero-crossing rate, Mel-Frequency Cepstral Coefficients, spectral centroid, and the stft chromagram. Features were extracted from the 2452 wav files. Features are extracted also by dividing each time series into 4 non overlapping windows.
 
+There are 2 datasets for this project:
+1. A tabular dataset which is needed for Module 1 and 2
+2. A time series dataset which is needed for Module 3
+
 ### Features:
 - modality (audio-only)
 - vocal_channel (speech, song)
