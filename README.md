@@ -59,3 +59,8 @@ E.g.,
 * Sequential Pattern Mining
 * Transactional Clustering
 * Explainability AI
+
+## Collaborators
+
+<a href="https://github.com/umer7267" target="_blank">Hafiz Muhammad Umer</a>
+<a href="https://github.com/nimra709" target="_blank">Nimra Nawaz</a>
