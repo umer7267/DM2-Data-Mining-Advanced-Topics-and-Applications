@@ -62,5 +62,5 @@ E.g.,
 
 ## Collaborators
 
-<a href="https://github.com/umer7267" target="_blank">Hafiz Muhammad Umer</a>
+<a href="https://github.com/umer7267" target="_blank">Hafiz Muhammad Umer</a> <br>
 <a href="https://github.com/nimra709" target="_blank">Nimra Nawaz</a>
