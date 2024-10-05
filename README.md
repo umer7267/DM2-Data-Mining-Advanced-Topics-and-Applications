@@ -1,6 +1,6 @@
-# DM2-Data-Mining-Advanced-Topics-and-Applications
+# DM2 Data Mining Advanced Topics and Applications
 
-In this repository, I, and my group member, implemented the advance and core concepts  of Data Mining on the RAVDESS dataset taught by [Prof. Riccardo Guidotti](https://scholar.google.com/citations?user=KZUaK6YAAAAJ&hl=en&oi=ao) in DM2 - Data Mining: Advanced Topics and Applications course at Università di Pisa for the year 2022/23.
+In this repository, my colleague, Nimra Nawaz, and I implemented the advanced and core concepts  of Data Mining on the RAVDESS dataset taught by [Prof. Riccardo Guidotti](https://scholar.google.com/citations?user=KZUaK6YAAAAJ&hl=en&oi=ao) in DM2 - Data Mining: Advanced Topics and Applications course at Università di Pisa for the year 2022/23.
 
 ## Dataset - RAVDESS
 
